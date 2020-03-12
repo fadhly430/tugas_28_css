@@ -1,0 +1,16 @@
+body{
+  background: #333333;
+}
+
+form{
+  color: white;
+}
+
+.container{
+      margin: 0 auto;
+      margin-top: 30px;
+      width: 500px;
+}
+.size-check {
+            font-size: 13px;
+        }
